@@ -1,6 +1,6 @@
 # Terminal
-Tilix: A tiling terminal emulator - GitHub Pages
-https://gnunn1.github.io/tilix-web/
+[Tilix: A tiling terminal emulator - GitHub Pages]
+(https://gnunn1.github.io/tilix-web/)
 
 sudo add-apt-repository ppa:webupd8team/terminix
 sudo apt-get update
