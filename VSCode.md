@@ -1,10 +1,10 @@
-#Ícones
+# Ícones
 Material Icons https://github.com/PKief/vscode-material-icon-theme
 
-#Fontes
+# Fontes
 Fira Code https://github.com/tonsky/FiraCode
 
-#Diversos
+# Diversos
 
 GitLens https://github.com/eamodio/vscode-gitlens
 
@@ -12,7 +12,7 @@ Prettier https://github.com/prettier/prettier-vscode
 
 EditorConfig https://github.com/editorconfig/editorconfig-vscode
 
-#Javascript
+# Javascript
 Document This https://github.com/joelday/vscode-docthis
 
 ESLint https://github.com/Microsoft/vscode-eslint

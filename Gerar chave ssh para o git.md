@@ -1,4 +1,4 @@
-#Gerar chave ssh para o git
+# Gerar chave ssh para o git
 
 Primeiramente, devemos gerar um novo par de chaves usando o comando ssh-keygen:
 
