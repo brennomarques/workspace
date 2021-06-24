@@ -1,3 +1,7 @@
+# Ubuntu 20.04.2.0 LTS
+<strong>Ubuntu:</strong> 20.04.2.0 LTS
+(https://ubuntu.com/download/desktop)
+
 # Terminal
 <strong>Tilix:</strong> A tiling terminal emulator
 (https://gnunn1.github.io/tilix-web/)
