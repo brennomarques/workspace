@@ -18,3 +18,11 @@ You can install the latest versions of Peek from the Ubuntu PPA.
 sudo add-apt-repository ppa:peek-developers/stable<br>
 sudo apt update<br>
 sudo apt install peek
+
+# Okular PDF viewer
+<strong>Okular:</strong> https://okular.kde.org/pt-br/
+
+With Ubuntu Linux you install software using apt.<br>
+For example to install KWrite you will open a console and enter:
+
+sudo apt install kwrite
