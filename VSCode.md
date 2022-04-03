@@ -2,15 +2,19 @@
 Visual Studio Code:
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-# Ícones
+### Settings Sync
+Settings Sync:
+[https://github.com/shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
+
+### Ícones
 Material Icons
 [https://github.com/PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
 
-# Fontes
+### Fontes
 Fira Code
 [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
-# Diversos
+### Diversos
 Atom Keymap
 [https://github.com/Microsoft/vscode-atom-keybindings](https://github.com/Microsoft/vscode-atom-keybindings)
 
@@ -23,7 +27,7 @@ Prettier
 EditorConfig
 [https://github.com/editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
 
-# Javascript
+### Javascript
 Document This
 [https://github.com/joelday/vscode-docthis](https://github.com/joelday/vscode-docthis)
 
