@@ -26,3 +26,12 @@ With Ubuntu Linux you install software using apt.<br>
 For example to install KWrite you will open a console and enter:
 
 sudo apt install kwrite
+
+# Flameshot
+<strong>flameshot:</strong> https://flameshot.org/
+
+Free & open source screenshot software.<br>
+Flameshot is a free and open-source, cross-platform tool to take <br> screenshots with many built-in features to save you time:
+
+Ubuntu 18.04+ and Debian 10+
+apt install flameshot
