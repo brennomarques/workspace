@@ -1,2 +1,2 @@
 # WorkSpace
-Configurações de Trabalho.
+* Workspace setup.
