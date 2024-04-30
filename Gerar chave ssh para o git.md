@@ -13,8 +13,8 @@ Enter passphrase (empty for no passphrase): [digite sua senha]<br>
 Enter same passphrase again: [digite sua senha novamente]<br>
 Finalmente, sua chave será salva na pasta ~/.ssh:<br>
 
-Your identification has been saved in /Users/raffa-ferreira/.ssh/id_rsa.<br>
-Your public key has been saved in /Users/raffa-ferreira/.ssh/id_rsa.pub.<br>
+Your identification has been saved in /Users/brenno/.ssh/id_rsa.<br>
+Your public key has been saved in /Users/brenno/.ssh/id_rsa.pub.<br>
 
 The key fingerprint is:<br>
 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db seu-email@seu-servidor.<br>
